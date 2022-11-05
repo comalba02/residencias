@@ -13,8 +13,11 @@ Proyecto de investigacion e innovacion desarrollado con el proposito de generar 
 Proyecto basado en SDK Flutter 3.0. y las dependencias 
 
 http: 0.13.4
+
 provider: 6.0.2
+
 url_launcher: 6.0.20
+
 flutter_barcode_scanner: 2.0.0
 
 # Contacto
