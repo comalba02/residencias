@@ -8,9 +8,14 @@ Proyecto de investigacion e innovacion desarrollado con el proposito de generar 
 ![03](https://user-images.githubusercontent.com/49756024/200091370-16d89836-6d87-427e-b415-38c59a2885bf.jpeg)
 ![02](https://user-images.githubusercontent.com/49756024/200091366-a9f96e32-b1b4-4398-84e5-ba0a3461d120.jpeg)
 
-# Residencias
+# Notas de desarrollo
 
-Proyecto basado en SDK Flutter 3.0.
+Proyecto basado en SDK Flutter 3.0. y las dependencias 
+
+http: 0.13.4
+provider: 6.0.2
+url_launcher: 6.0.20
+flutter_barcode_scanner: 2.0.0
 
 # Contacto
 
